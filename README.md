@@ -1,4 +1,4 @@
-# todo-list-app
+# todo-list-app MERN
 
 <p><b>1)</b> Clone repo</p>
 <p><b>2)</b> Run npm install (or just npm i).</p>
